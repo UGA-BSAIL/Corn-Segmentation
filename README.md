@@ -14,7 +14,7 @@ Models used in the study were trained using Tensorflow 1.12, Please install the 
 
 1.2. Pretrained Mask RCNN models for corn segmentation
 
-Download the model pretrained for segmentation from dropbox link https://www.dropbox.com/s/jfm3c8dnqvdtrny/mask_rcnn_corn_2class_0600.h5?dl=0.
+Download the model pretrained for segmentation from dropbox link https://figshare.com/s/94fa3750aaae4fde3ffb.
 
 1.3. Source code for seedling detection and counting
 
@@ -45,4 +45,4 @@ Programs for generating evaluation metrics presented in paper can be tested usin
 
 4. Additional resources
 
-Original corn images and annotations can be downloaded via the link https://www.dropbox.com/sh/fm7cvetkdbzmzfg/AADpv0hGOopa8njVtr9_qq1ya?dl=0. All annotations were made using VGG Image Annotator 2.0.1 version.
+Original corn images and annotations can be downloaded via the link https://figshare.com/s/3513f21c93e102502500. All annotations were made using VGG Image Annotator 2.0.1 version.
