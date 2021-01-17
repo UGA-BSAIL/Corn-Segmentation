@@ -1,7 +1,7 @@
 # Corn Image Instance Segmentation Using Mask RCNN
 
 
-This repository is our implementation of our research article "Estimating Consumption of Corn Cob by Wild Animals withInstance Segmentation of Images using Mask-RCNN". Here source code and instructions for testing the models can be found. 
+This repository is our implementation of our research article "Instance Segmentation to Estimate Consumption of Corn Ears by Wild Animals for GMO Preference Tests". Here source code and instructions for testing the models can be found. 
 
 This repository uses implementation of [Mask RCNN](https://arxiv.org/abs/1703.06870) by [Matterport](https://github.com/matterport). For detailed setup instructions of MaskRCNN you may refer [their repository](https://github.com/matterport/Mask_RCNN).
 
